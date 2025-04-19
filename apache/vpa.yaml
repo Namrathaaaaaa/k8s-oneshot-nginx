@@ -9,5 +9,5 @@ spec:
     apiVersion: apps/v1
     kind: Deployment 
   updatePolicy:
-    updateMode: "Initial"
+    updateMode: "Auto"
 
