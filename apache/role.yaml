@@ -4,8 +4,8 @@ metadata:
   name: apache-manager
   namespace: apache
 rules:
-  - apiGroups: ["*"],
-    resources: ["*"], 
+  - apiGroups: ["*"]
+    resources: ["*"]
     verbs: ["*"] 
 
 
