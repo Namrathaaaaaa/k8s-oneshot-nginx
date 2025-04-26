@@ -1,0 +1,10 @@
+kind: ServiceAccount
+apiVersion: v1
+metadata: 
+  name: admin-user
+  namespace: kubernetes-dashboard
+
+---
+
+kind: ServiceAccount 
+metadat
