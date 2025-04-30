@@ -1,0 +1,9 @@
+kind: DevOpsBatch
+apiVersion: namratha.com/v1
+metadata: 
+  name: nam-batch9
+spec:
+  name: Devops zero to hero batch-9
+  duration: 11hrs
+  mode: recorded 
+  platform: namratha.com
