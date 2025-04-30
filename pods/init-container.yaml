@@ -11,5 +11,5 @@ spec:
   containers:
   - name: main-container
     image: busybox:latest
-    command: ["sh", "-c", "echo 'Main container started'; sleep 3600"]
+    command: ["sh", "-c", "echo 'Main container started'"]
 
